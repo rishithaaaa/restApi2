@@ -1,0 +1,502 @@
+[
+  {
+    "phone_name": "Sony Ericsson K310",
+    "price": "$5.31",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "XOLO Q510s",
+    "price": "$7.57",
+    "company": "XOLO"
+  },
+  {
+    "phone_name": "Allview V1 Viper S4G",
+    "price": "$9.29",
+    "company": "Allview"
+  },
+  {
+    "phone_name": "Samsung Star 3 Duos S5222",
+    "price": "$6.22",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "verykool SL5000 Quantum",
+    "price": "$4.39",
+    "company": "verykool"
+  },
+  {
+    "phone_name": "LG Nexus 4 E960",
+    "price": "$6.48",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Huawei Ascend Mate7",
+    "price": "$3.13",
+    "company": "Huawei"
+  },
+  {
+    "phone_name": "XOLO A600",
+    "price": "$8.07",
+    "company": "XOLO"
+  },
+  {
+    "phone_name": "Eten M600+",
+    "price": "$4.85",
+    "company": "Eten"
+  },
+  {
+    "phone_name": "LG A120",
+    "price": "$0.90",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Sony Ericsson W810",
+    "price": "$6.38",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "Nokia N80",
+    "price": "$8.90",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "Samsung Ch@t 357",
+    "price": "$7.48",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "alcatel OT-E201",
+    "price": "$2.93",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Motorola PEBL VU20",
+    "price": "$1.20",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "BLU Energy X LTE",
+    "price": "$5.81",
+    "company": "BLU"
+  },
+  {
+    "phone_name": "Motorola W213",
+    "price": "$5.33",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "Wiko Tommy2",
+    "price": "$4.04",
+    "company": "Wiko"
+  },
+  {
+    "phone_name": "Pantech PG-1000s",
+    "price": "$2.44",
+    "company": "Pantech"
+  },
+  {
+    "phone_name": "Honor 30",
+    "price": "$3.49",
+    "company": "Honor"
+  },
+  {
+    "phone_name": "alcatel One Touch Evo 8HD",
+    "price": "$5.22",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Sony Xperia R1 (Plus)",
+    "price": "$0.84",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "Icemobile Rock",
+    "price": "$5.48",
+    "company": "Icemobile"
+  },
+  {
+    "phone_name": "XOLO A500S Lite",
+    "price": "$6.54",
+    "company": "XOLO"
+  },
+  {
+    "phone_name": "Samsung T429",
+    "price": "$8.16",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "Sewon SGD-101",
+    "price": "$5.25",
+    "company": "Sewon"
+  },
+  {
+    "phone_name": "Pantech G900",
+    "price": "$1.06",
+    "company": "Pantech"
+  },
+  {
+    "phone_name": "Samsung P910",
+    "price": "$4.80",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "LG CT810 Incite",
+    "price": "$5.72",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Motorola Motosmart Me XT303",
+    "price": "$6.32",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "Lenovo A6000 Plus",
+    "price": "$8.75",
+    "company": "Lenovo"
+  },
+  {
+    "phone_name": "HTC Touch Diamond",
+    "price": "$0.93",
+    "company": "HTC"
+  },
+  {
+    "phone_name": "Gionee P5 Mini",
+    "price": "$3.78",
+    "company": "Gionee"
+  },
+  {
+    "phone_name": "Sony Ericsson Vivaz",
+    "price": "$7.97",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "Plum Orbit",
+    "price": "$2.08",
+    "company": "Plum"
+  },
+  {
+    "phone_name": "Honor Play4",
+    "price": "$1.84",
+    "company": "Honor"
+  },
+  {
+    "phone_name": "HTC TyTN II",
+    "price": "$1.25",
+    "company": "HTC"
+  },
+  {
+    "phone_name": "alcatel OT-109",
+    "price": "$3.09",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Motorola Moto G6 Plus",
+    "price": "$6.70",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "alcatel Flash (2017)",
+    "price": "$5.13",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Samsung U460 Intensity II",
+    "price": "$4.17",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "Emporia RL1",
+    "price": "$5.27",
+    "company": "Emporia"
+  },
+  {
+    "phone_name": "Samsung I997 Infuse 4G",
+    "price": "$0.90",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "YU Yunicorn",
+    "price": "$4.57",
+    "company": "YU"
+  },
+  {
+    "phone_name": "BLU C5L",
+    "price": "$3.64",
+    "company": "BLU"
+  },
+  {
+    "phone_name": "Sony Ericsson J230",
+    "price": "$6.49",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "alcatel Pixi 4 (6)",
+    "price": "$9.42",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Nokia 3128",
+    "price": "$9.51",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "Celkon CT 9",
+    "price": "$6.84",
+    "company": "Celkon"
+  },
+  {
+    "phone_name": "alcatel OT-665",
+    "price": "$1.65",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "Motorola DEFY XT XT556",
+    "price": "$0.33",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "NIU Andy 5T",
+    "price": "$0.91",
+    "company": "NIU"
+  },
+  {
+    "phone_name": "Honor 30 Pro+",
+    "price": "$6.54",
+    "company": "Honor"
+  },
+  {
+    "phone_name": "Sony Ericsson G705",
+    "price": "$4.70",
+    "company": "Sony"
+  },
+  {
+    "phone_name": "Oppo R9s Plus",
+    "price": "$4.33",
+    "company": "Oppo"
+  },
+  {
+    "phone_name": "Celkon C205",
+    "price": "$9.53",
+    "company": "Celkon"
+  },
+  {
+    "phone_name": "Amoi A210",
+    "price": "$9.95",
+    "company": "Amoi"
+  },
+  {
+    "phone_name": "BlackBerry Q10",
+    "price": "$7.99",
+    "company": "BlackBerry"
+  },
+  {
+    "phone_name": "XOLO X910",
+    "price": "$2.63",
+    "company": "XOLO"
+  },
+  {
+    "phone_name": "QMobile Noir LT150",
+    "price": "$9.28",
+    "company": "QMobile"
+  },
+  {
+    "phone_name": "Huawei Ascend Y100",
+    "price": "$3.57",
+    "company": "Huawei"
+  },
+  {
+    "phone_name": "Motorola P40",
+    "price": "$0.27",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "Samsung E100",
+    "price": "$2.26",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "ZTE Avid Plus",
+    "price": "$6.50",
+    "company": "ZTE"
+  },
+  {
+    "phone_name": "Nokia 9500",
+    "price": "$7.28",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "LG A160",
+    "price": "$9.88",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Amoi H80",
+    "price": "$9.70",
+    "company": "Amoi"
+  },
+  {
+    "phone_name": "Sonim XP1",
+    "price": "$5.61",
+    "company": "Sonim"
+  },
+  {
+    "phone_name": "Nokia 6108",
+    "price": "$2.06",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "Sonim XP3400 Armor",
+    "price": "$6.64",
+    "company": "Sonim"
+  },
+  {
+    "phone_name": "Xiaomi Mi Max 2",
+    "price": "$3.67",
+    "company": "Xiaomi"
+  },
+  {
+    "phone_name": "Wiko Jerry3",
+    "price": "$3.75",
+    "company": "Wiko"
+  },
+  {
+    "phone_name": "LG F2300",
+    "price": "$0.35",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Huawei MediaPad 7 Youth",
+    "price": "$1.40",
+    "company": "Huawei"
+  },
+  {
+    "phone_name": "Nokia 6131",
+    "price": "$8.32",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "i-mate Ultimate 8150",
+    "price": "$0.05",
+    "company": "i-mate"
+  },
+  {
+    "phone_name": "Samsung X430",
+    "price": "$6.63",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "Celkon A19",
+    "price": "$0.83",
+    "company": "Celkon"
+  },
+  {
+    "phone_name": "vivo X9 Plus",
+    "price": "$5.58",
+    "company": "vivo"
+  },
+  {
+    "phone_name": "Nokia Lumia 810",
+    "price": "$2.84",
+    "company": "Nokia"
+  },
+  {
+    "phone_name": "Chea 328",
+    "price": "$5.52",
+    "company": "Chea"
+  },
+  {
+    "phone_name": "Huawei Y6s (2019)",
+    "price": "$3.92",
+    "company": "Huawei"
+  },
+  {
+    "phone_name": "Lava Iris Atom 3",
+    "price": "$6.90",
+    "company": "Lava"
+  },
+  {
+    "phone_name": "Meizu Pro 6s",
+    "price": "$8.02",
+    "company": "Meizu"
+  },
+  {
+    "phone_name": "Motorola V1100",
+    "price": "$2.33",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "Samsung Galaxy S5 LTE-A G906S",
+    "price": "$9.65",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "Sagem my300C",
+    "price": "$6.57",
+    "company": "Sagem"
+  },
+  {
+    "phone_name": "Prestigio MultiPad 10.1 Ultimate 3G",
+    "price": "$1.09",
+    "company": "Prestigio"
+  },
+  {
+    "phone_name": "Wiko Sunny",
+    "price": "$4.82",
+    "company": "Wiko"
+  },
+  {
+    "phone_name": "Lenovo A6 Note",
+    "price": "$6.94",
+    "company": "Lenovo"
+  },
+  {
+    "phone_name": "Motorola A1260",
+    "price": "$0.83",
+    "company": "Motorola"
+  },
+  {
+    "phone_name": "LG Aristo 2",
+    "price": "$3.99",
+    "company": "LG"
+  },
+  {
+    "phone_name": "alcatel OT 156",
+    "price": "$8.73",
+    "company": "alcatel"
+  },
+  {
+    "phone_name": "XOLO Q1200",
+    "price": "$6.91",
+    "company": "XOLO"
+  },
+  {
+    "phone_name": "Samsung P110",
+    "price": "$8.70",
+    "company": "Samsung"
+  },
+  {
+    "phone_name": "Panasonic Toughpad FZ-A1",
+    "price": "$9.39",
+    "company": "Panasonic"
+  },
+  {
+    "phone_name": "Infinix Smart 2",
+    "price": "$1.59",
+    "company": "Infinix"
+  },
+  {
+    "phone_name": "LG KF300",
+    "price": "$9.94",
+    "company": "LG"
+  },
+  {
+    "phone_name": "Asus Zenfone 4 (2014)",
+    "price": "$2.78",
+    "company": "Asus"
+  },
+  {
+    "phone_name": "Tecno Pouvoir 3 Air",
+    "price": "$9.01",
+    "company": "Tecno"
+  }
+]
